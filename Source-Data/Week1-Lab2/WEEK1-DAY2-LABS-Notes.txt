@@ -1,0 +1,20 @@
+--WEEK1-DAY2-LABS
+------------------------------
+
+1. Create Azure Data Lake Storage Account Using Naming Conventions
+
+2. Create Container and Folders  on ADLS
+
+3. Upload Delimited and Json Files into the ADLS
+
+4. Create Azure Data Factory Using Naming Conventions
+
+5. Create Linked Services in ADF to connect to ADLS Storage Account
+
+6. Define reusable Datasets for Delimited and JSON source files
+
+7. Create New Pipeline to copy source data into the staging container of the another Storage Account( Need to repeat Steps 1 and 2 to create Datalake Storage Account)
+
+8 . Use the Copy Activity to copy the data from Landing to Staging container in new Storage account
+
+9. Run, Debug and view the output of the jobs

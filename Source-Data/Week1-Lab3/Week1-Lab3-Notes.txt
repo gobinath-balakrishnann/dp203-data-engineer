@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com
+
+ADF-Training/tree/main/Source-Data/Week1-Lab2/Json
